@@ -31,7 +31,7 @@ Seleccionar modo: T (texto), V (voz).
 Si se desea usar la aplicación móvil, clonar también el repositorio CTFG en la misma carpeta:
 
 ```bash
-git clone <url-repo-ctfg> ../CTFG
+git clone github.com/aaf925/TFG-aaf925 ../CTFG
 ```
 
 El asistente en modo voz arrancará automáticamente la API para la app móvil.
