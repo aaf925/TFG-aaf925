@@ -1,0 +1,51 @@
+[
+  {
+    "modelo": "qwen2.5:0.5b (solo)",
+    "total": 64,
+    "aciertos": 15,
+    "precision": 23.4,
+    "tiempo_medio": 7.72
+  },
+  {
+    "modelo": "qwen2.5:1.5b (solo)",
+    "total": 64,
+    "aciertos": 32,
+    "precision": 50.0,
+    "tiempo_medio": 6.176
+  },
+  {
+    "modelo": "llama3.1:latest (solo)",
+    "total": 64,
+    "aciertos": 39,
+    "precision": 60.9,
+    "tiempo_medio": 12.926
+  },
+  {
+    "modelo": "qwen2.5:0.5b + fallback",
+    "total": 64,
+    "aciertos": 52,
+    "precision": 81.2,
+    "tiempo_medio": 8.216
+  },
+  {
+    "modelo": "qwen2.5:1.5b + fallback",
+    "total": 64,
+    "aciertos": 53,
+    "precision": 82.8,
+    "tiempo_medio": 6.422
+  },
+  {
+    "modelo": "llama3.1:latest + fallback",
+    "total": 64,
+    "aciertos": 53,
+    "precision": 82.8,
+    "tiempo_medio": 13.0
+  },
+  {
+    "modelo": "fallback parser (solo)",
+    "total": 64,
+    "aciertos": 52,
+    "precision": 81.2,
+    "tiempo_medio": 0.001
+  }
+]

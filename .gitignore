@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+*.log
+*.aux
+*.toc
+*.out
+*.bbl
+*.blg
+*.lof
+*.lot
+*.lol
+*.synctex.gz
+__pycache__/
+*.pyc
+.env

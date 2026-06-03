@@ -1,0 +1,74 @@
+[
+  {
+    "motor": "Piper (local)",
+    "texto": "Hecho.",
+    "tiempo": 0.189,
+    "local": true
+  },
+  {
+    "motor": "Piper (local)",
+    "texto": "Enciendo la luz del salon.",
+    "tiempo": 0.236,
+    "local": true
+  },
+  {
+    "motor": "Piper (local)",
+    "texto": "La temperatura actual es de veintidos grados.",
+    "tiempo": 0.332,
+    "local": true
+  },
+  {
+    "motor": "Piper (local)",
+    "texto": "Buenos dias, bienvenido a casa.",
+    "tiempo": 0.18,
+    "local": true
+  },
+  {
+    "motor": "gTTS (cloud)",
+    "texto": "Hecho.",
+    "tiempo": 0.239,
+    "local": false
+  },
+  {
+    "motor": "gTTS (cloud)",
+    "texto": "Enciendo la luz del salon.",
+    "tiempo": 0.266,
+    "local": false
+  },
+  {
+    "motor": "gTTS (cloud)",
+    "texto": "La temperatura actual es de veintidos grados.",
+    "tiempo": 0.4,
+    "local": false
+  },
+  {
+    "motor": "gTTS (cloud)",
+    "texto": "Buenos dias, bienvenido a casa.",
+    "tiempo": 0.247,
+    "local": false
+  },
+  {
+    "motor": "pyttsx3 (local)",
+    "texto": "Hecho.",
+    "tiempo": 0.481,
+    "local": true
+  },
+  {
+    "motor": "pyttsx3 (local)",
+    "texto": "Enciendo la luz del salon.",
+    "tiempo": 0.124,
+    "local": true
+  },
+  {
+    "motor": "pyttsx3 (local)",
+    "texto": "La temperatura actual es de veintidos grados.",
+    "tiempo": 0.132,
+    "local": true
+  },
+  {
+    "motor": "pyttsx3 (local)",
+    "texto": "Buenos dias, bienvenido a casa.",
+    "tiempo": 0.138,
+    "local": true
+  }
+]

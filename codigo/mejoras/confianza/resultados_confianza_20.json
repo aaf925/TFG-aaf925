@@ -1,0 +1,22 @@
+[
+  {"id": 1, "cmd": "enciende la luz del salon 7", "confianza": 1.0, "decision": "auto"},
+  {"id": 3, "cmd": "enciende la luz de la cocina", "confianza": 1.0, "decision": "auto"},
+  {"id": 5, "cmd": "enciende la luz del bano 5", "confianza": 1.0, "decision": "auto"},
+  {"id": 9, "cmd": "apaga la entrada 9", "confianza": 1.0, "decision": "auto"},
+  {"id": 20, "cmd": "enciende todas las luces del salon", "confianza": 1.0, "decision": "auto"},
+  {"id": 24, "cmd": "enciende todas las luces de la casa", "confianza": 1.0, "decision": "auto"},
+  {"id": 30, "cmd": "regula la luz del salon 3 al 50", "confianza": 1.0, "decision": "auto"},
+  {"id": 40, "cmd": "sube la persiana de la cocina", "confianza": 1.0, "decision": "auto"},
+  {"id": 44, "cmd": "sube el estor del salon", "confianza": 1.0, "decision": "auto"},
+  {"id": 50, "cmd": "sube la persiana de la cocina al 50", "confianza": 1.0, "decision": "auto"},
+  {"id": 55, "cmd": "sube todas las persianas", "confianza": 1.0, "decision": "auto"},
+  {"id": 60, "cmd": "que temperatura hace en el salon", "confianza": 0.91, "decision": "auto"},
+  {"id": 80, "cmd": "prende la luz del salon 7", "confianza": 1.0, "decision": "auto"},
+  {"id": 90, "cmd": "enciende la perciana de la cocina", "confianza": 0.59, "decision": "confirmar"},
+  {"id": 100, "cmd": "cual es el sentido de la vida", "confianza": 0.67, "decision": "confirmar"},
+  {"id": 70, "cmd": "enciende la luz del salon 7 y apaga la cocina", "confianza": 0.0, "decision": "rechazar"},
+  {"id": 95, "cmd": "hola", "confianza": 0.0, "decision": "rechazar"},
+  {"id": 101, "cmd": "cuentame un chiste", "confianza": 0.0, "decision": "rechazar"},
+  {"id": 102, "cmd": "quien es el presidente del gobierno", "confianza": 0.0, "decision": "rechazar"},
+  {"id": 103, "cmd": "pizza", "confianza": 0.0, "decision": "rechazar"}
+]

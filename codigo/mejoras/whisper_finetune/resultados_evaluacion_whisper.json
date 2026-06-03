@@ -1,0 +1,146 @@
+[
+  {
+    "texto": "enciende la luz del salon",
+    "trans_base": "en fin de la luz del salon.",
+    "wer_base": 1.0,
+    "tiempo_base": 1.513,
+    "trans_finetune": "infiende la luz del salon",
+    "wer_finetune": 0.2,
+    "tiempo_finetune": 1.079
+  },
+  {
+    "texto": "apaga la persiana de la cocina",
+    "trans_base": "apaga la posicion de la cocina.",
+    "wer_base": 0.333,
+    "tiempo_base": 1.466,
+    "trans_finetune": "apaga la persiana de la cocina",
+    "wer_finetune": 0.0,
+    "tiempo_finetune": 0.826
+  },
+  {
+    "texto": "sube el estor del dormitorio",
+    "trans_base": "AsAomenos toren dormitorio!",
+    "wer_base": 1.0,
+    "tiempo_base": 1.477,
+    "trans_finetune": "suma el estor del dormitorio",
+    "wer_finetune": 0.2,
+    "tiempo_finetune": 0.787
+  },
+  {
+    "texto": "que temperatura hace",
+    "trans_base": "quietan para pudarse.",
+    "wer_base": 1.0,
+    "tiempo_base": 1.391,
+    "trans_finetune": "que temperatura hace",
+    "wer_finetune": 0.0,
+    "tiempo_finetune": 0.807
+  },
+  {
+    "texto": "regula la luz al cincuenta",
+    "trans_base": "de una la nusa al 50.",
+    "wer_base": 1.0,
+    "tiempo_base": 1.195,
+    "trans_finetune": "de una la luz al cincuente",
+    "wer_finetune": 1.0,
+    "tiempo_finetune": 0.784
+  },
+  {
+    "texto": "baja todas las persianas",
+    "trans_base": "a las actoguesas posiones.",
+    "wer_base": 1.0,
+    "tiempo_base": 1.367,
+    "trans_finetune": "baja todo es las pulsiones",
+    "wer_finetune": 0.75,
+    "tiempo_finetune": 0.789
+  },
+  {
+    "texto": "enciende todas las luces del salon",
+    "trans_base": "en fin de todas las luces del sal.",
+    "wer_base": 1.0,
+    "tiempo_base": 1.322,
+    "trans_finetune": "en fin de todas las luces del salon",
+    "wer_finetune": 1.0,
+    "tiempo_finetune": 0.843
+  },
+  {
+    "texto": "dime la temperatura exterior",
+    "trans_base": "dime la temperatura este vio.",
+    "wer_base": 0.25,
+    "tiempo_base": 1.636,
+    "trans_finetune": "dime la temperatura exterior",
+    "wer_finetune": 0.0,
+    "tiempo_finetune": 0.762
+  },
+  {
+    "texto": "sube la persiana del bano",
+    "trans_base": "Asuena por si ha dado el baAoo!",
+    "wer_base": 1.0,
+    "tiempo_base": 1.363,
+    "trans_finetune": "sule la persianada del bano",
+    "wer_finetune": 0.4,
+    "tiempo_finetune": 0.806
+  },
+  {
+    "texto": "apaga la luz de la entrada",
+    "trans_base": "aparra la luz de la entrada.",
+    "wer_base": 0.333,
+    "tiempo_base": 1.285,
+    "trans_finetune": "apaga la luz y la entrada",
+    "wer_finetune": 0.167,
+    "tiempo_finetune": 0.74
+  },
+  {
+    "texto": "cierra los estores del aula",
+    "trans_base": "fierran los estudios en la una.",
+    "wer_base": 0.8,
+    "tiempo_base": 1.438,
+    "trans_finetune": "cierra los estores del aula",
+    "wer_finetune": 0.0,
+    "tiempo_finetune": 0.821
+  },
+  {
+    "texto": "consulta el sensor de temperatura",
+    "trans_base": "conciencia y sension de temperapura.",
+    "wer_base": 0.8,
+    "tiempo_base": 1.586,
+    "trans_finetune": "consiste el sensor de temperatura",
+    "wer_finetune": 0.2,
+    "tiempo_finetune": 0.809
+  },
+  {
+    "texto": "pon la calefaccion a veintidos grados",
+    "trans_base": "Aon la calenza accion a bienvenidos de robles!",
+    "wer_base": 0.833,
+    "tiempo_base": 1.781,
+    "trans_finetune": "on la calefaccionada en dinosauravos",
+    "wer_finetune": 0.833,
+    "tiempo_finetune": 1.201
+  },
+  {
+    "texto": "abre las persianas de la cocina",
+    "trans_base": "A?pabremos? podsyermos de la tofina.",
+    "wer_base": 1.0,
+    "tiempo_base": 1.826,
+    "trans_finetune": "cabremos poxiemas del atofina",
+    "wer_finetune": 1.0,
+    "tiempo_finetune": 1.13
+  },
+  {
+    "texto": "modo bienvenida",
+    "trans_base": "A?modo bien benita?",
+    "wer_base": 1.0,
+    "tiempo_base": 1.271,
+    "trans_finetune": "modo bienvenida",
+    "wer_finetune": 0.0,
+    "tiempo_finetune": 0.709
+  },
+  {
+    "texto": "apaga todo al salir",
+    "trans_base": "Anapagar a tu gobernante!",
+    "wer_base": 1.0,
+    "tiempo_base": 1.616,
+    "trans_finetune": "apaga tugo en semi",
+    "wer_finetune": 0.75,
+    "tiempo_finetune": 0.787
+  }
+]

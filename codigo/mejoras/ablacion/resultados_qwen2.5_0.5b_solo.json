@@ -1,0 +1,1123 @@
+[
+  {
+    "id": 1,
+    "cmd": "enciende la luz del salon 7",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz salon 7",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.525
+  },
+  {
+    "id": 2,
+    "cmd": "apaga la luz del salon 7",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.12
+  },
+  {
+    "id": 3,
+    "cmd": "enciende la luz de la cocina",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz cocina"
+      ],
+      "valor": true
+    },
+    "tiempo": 4.085
+  },
+  {
+    "id": 4,
+    "cmd": "apaga la luz de la cocina",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz cocina"
+      ],
+      "valor": ""
+    },
+    "tiempo": 4.035
+  },
+  {
+    "id": 5,
+    "cmd": "enciende la luz del bano 5",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz bano 5"
+      ],
+      "valor": null
+    },
+    "tiempo": 4.35
+  },
+  {
+    "id": 6,
+    "cmd": "enciende la luz del aula 18",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz aula 18"
+      ],
+      "valor": null
+    },
+    "tiempo": 4.422
+  },
+  {
+    "id": 7,
+    "cmd": "apaga la luz del dormitorio 12",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luces dormitorio",
+        "luces salon",
+        "estor dormitorio",
+        "estor salon"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.805
+  },
+  {
+    "id": 8,
+    "cmd": "enciende la entrada 1",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luces entrada 1",
+        "luces salon 11"
+      ],
+      "valor": null
+    },
+    "tiempo": 4.754
+  },
+  {
+    "id": 9,
+    "cmd": "apaga la entrada 9",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz entrada 1",
+        "luz entrada 9"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.039
+  },
+  {
+    "id": 10,
+    "cmd": "enciende el salon 3",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz salon 3",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.185
+  },
+  {
+    "id": 11,
+    "cmd": "apaga la luz salon 11",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 12",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.209
+  },
+  {
+    "id": 12,
+    "cmd": "enciende luz salon 8",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 9",
+        "luz salon 10"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.643
+  },
+  {
+    "id": 13,
+    "cmd": "apaga dormitorio 13",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz dormitorio 12",
+        "luces dormitorio",
+        "luces salon",
+        "estor dormitorio",
+        "estor salon"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.517
+  },
+  {
+    "id": 14,
+    "cmd": "enciende la del dormitorio 14",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luces dormitorio",
+        "luces salon",
+        "estor dormitorio",
+        "estor salon"
+      ],
+      "valor": 14
+    },
+    "tiempo": 5.773
+  },
+  {
+    "id": 20,
+    "cmd": "enciende todas las luces del salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz salon 1",
+        "luz salon 2",
+        "luz salon 3",
+        "luz salon 4",
+        "luz salon 5",
+        "luz salon 6",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 9",
+        "luz salon 10",
+        "luz salon 11"
+      ],
+      "valor": true
+    },
+    "tiempo": 9.606
+  },
+  {
+    "id": 21,
+    "cmd": "apaga las luces del salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 1",
+        "luz salon 2",
+        "luz salon 3",
+        "luz salon 4",
+        "luz salon 5",
+        "luz salon 6"
+      ],
+      "valor": null
+    },
+    "tiempo": 7.302
+  },
+  {
+    "id": 22,
+    "cmd": "enciende las luces del dormitorio",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luces dormitorio",
+        "luces salon",
+        "luces salon 11",
+        "luces dormitorio 13"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.079
+  },
+  {
+    "id": 23,
+    "cmd": "apaga las luces de los dormitorios",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luces dormitorio",
+        "luces salon",
+        "luces salon 11",
+        "luces dormitorio 13",
+        "luces dormitorio 14"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.563
+  },
+  {
+    "id": 24,
+    "cmd": "enciende todas las luces de la casa",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.011
+  },
+  {
+    "id": 25,
+    "cmd": "apaga todo",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.06
+  },
+  {
+    "id": 30,
+    "cmd": "regula la luz del salon 3 al 50",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 1",
+        "luz salon 2",
+        "luz salon 3",
+        "luz salon 4",
+        "luz salon 5",
+        "luz salon 6",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 9",
+        "luz salon 10",
+        "luz salon 11"
+      ],
+      "valor": 3
+    },
+    "tiempo": 10.11
+  },
+  {
+    "id": 31,
+    "cmd": "pon la luz del salon 8 al 75",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": 75
+    },
+    "tiempo": 6.53
+  },
+  {
+    "id": 32,
+    "cmd": "regula aula 18 al 30",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.053
+  },
+  {
+    "id": 33,
+    "cmd": "baja la intensidad del salon 3 al 20",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": 20
+    },
+    "tiempo": 6.69
+  },
+  {
+    "id": 34,
+    "cmd": "sube la luz del salon 11 al 80",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": 80
+    },
+    "tiempo": 6.559
+  },
+  {
+    "id": 40,
+    "cmd": "sube la persiana de la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz aula 18",
+        "luz bano 5",
+        "luz bano 6",
+        "luz cocina",
+        "luces dormitorio, luces salon, todas las luces de la casa, persiana cocina, persiana bano, persiana dormitorio, estor salon, estor dormitorio, estor aula"
+      ],
+      "valor": null
+    },
+    "tiempo": 9.042
+  },
+  {
+    "id": 41,
+    "cmd": "baja la persiana de la cocina",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.047
+  },
+  {
+    "id": 42,
+    "cmd": "sube la persiana del bano",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz bano 5",
+        "luz bano 6",
+        "luz bano 18",
+        "luz bano 9",
+        "luz bano 11"
+      ],
+      "valor": null
+    },
+    "tiempo": 7.225
+  },
+  {
+    "id": 43,
+    "cmd": "baja la persiana del dormitorio",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luces dormitorio",
+        "estor dormitorio",
+        "estor salon",
+        "luz entrada 9",
+        "luz salon 11",
+        "luz aula 18"
+      ],
+      "valor": null
+    },
+    "tiempo": 7.174
+  },
+  {
+    "id": 44,
+    "cmd": "sube el estor del salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 1",
+        "luces salon",
+        "estor salon"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.504
+  },
+  {
+    "id": 45,
+    "cmd": "baja el estor del salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "subir"
+      ],
+      "dispositivos": [
+        "luz entrada 1",
+        "luz salon 7",
+        "luces dormitorio",
+        "luces salon",
+        "luces salon 8",
+        "luces salon 9",
+        "luces salon 10"
+      ],
+      "valor": null
+    },
+    "tiempo": 7.613
+  },
+  {
+    "id": 46,
+    "cmd": "sube el estor del aula",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.038
+  },
+  {
+    "id": 47,
+    "cmd": "baja el estor del dormitorio",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "subir"
+      ],
+      "dispositivos": [
+        "luces dormitorio",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.15
+  },
+  {
+    "id": 50,
+    "cmd": "sube la persiana de la cocina al 50",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz aula 18",
+        "luz bano 5",
+        "luz bano 6",
+        "luz cocina",
+        "luces dormitorio",
+        "luces salon",
+        "luz entrada 9",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 11",
+        "luz dormitorio",
+        "luz dormitorio",
+        "luz salon 14",
+        "luz salon 3"
+      ],
+      "valor": true
+    },
+    "tiempo": 11.294
+  },
+  {
+    "id": 51,
+    "cmd": "pon la persiana del bano al 30",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz bano 5",
+        "luz bano 6",
+        "luz bano 7",
+        "luz bano 8",
+        "luz bano 9"
+      ],
+      "valor": 30
+    },
+    "tiempo": 7.084
+  },
+  {
+    "id": 52,
+    "cmd": "baja el estor del salon al 70",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz entrada 1",
+        "luz entrada 9",
+        "luz salon 3",
+        "luz salon 7",
+        "luz salon 8",
+        "luces dormitorio",
+        "luces salon",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": 0.7
+    },
+    "tiempo": 8.528
+  },
+  {
+    "id": 55,
+    "cmd": "sube todas las persianas",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "persiana cocina",
+        "persiana bano",
+        "persiana dormitorio",
+        "estor salon",
+        "estor dormitorio",
+        "estor aula"
+      ],
+      "valor": true
+    },
+    "tiempo": 7.015
+  },
+  {
+    "id": 56,
+    "cmd": "baja todas las persianas",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "subir"
+      ],
+      "dispositivos": [
+        "luz aula",
+        "luces salon",
+        "estor salon",
+        "estor dormitorio",
+        "luz entrada 9",
+        "luz salon 11"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.915
+  },
+  {
+    "id": 60,
+    "cmd": "que temperatura hace en el salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz entrada 1",
+        "luz entrada 9",
+        "luz salon 3",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 11",
+        "luces dormitorio",
+        "luces salon",
+        "persiana cocina",
+        "persiana bano",
+        "persiana dormitorio",
+        "estor salon",
+        "estor dormitorio",
+        "estor aula"
+      ],
+      "valor": null
+    },
+    "tiempo": 10.785
+  },
+  {
+    "id": 61,
+    "cmd": "cual es la temperatura exterior",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.041
+  },
+  {
+    "id": 62,
+    "cmd": "dime la temperatura del salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "consultar"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "estor salon",
+        "estor dormitorio",
+        "estor aula"
+      ],
+      "valor": "0"
+    },
+    "tiempo": 6.236
+  },
+  {
+    "id": 63,
+    "cmd": "cuanto marca el sensor de salon",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz entrada 1",
+        "luz entrada 9",
+        "luz salon 3",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 11",
+        "luces dormitorio",
+        "luces salon",
+        "luces dormitorio",
+        "luces salon",
+        "estor salon",
+        "estor dormitorio",
+        "persiana cocina",
+        "persiana bano",
+        "persiana dormitorio",
+        "temperatura exterior"
+      ],
+      "valor": null
+    },
+    "tiempo": 11.44
+  },
+  {
+    "id": 70,
+    "cmd": "enciende la luz del salon 7 y apaga la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio",
+        "luz aula 18",
+        "luz bano 5",
+        "luz bano 6",
+        "luz cocina"
+      ],
+      "valor": null
+    },
+    "tiempo": 8.552
+  },
+  {
+    "id": 71,
+    "cmd": "enciende el salon 3 y sube la persiana de la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "subir"
+      ],
+      "dispositivos": [
+        "luz salon 3",
+        "persiana cocina"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.445
+  },
+  {
+    "id": 72,
+    "cmd": "apaga las luces del salon y baja las persianas",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "bajar"
+      ],
+      "dispositivos": [
+        "luz salon 1",
+        "luces salon",
+        "luces dormitorio",
+        "luces aula",
+        "luces bano 5",
+        "luces bano 6",
+        "luces bano 7",
+        "luces bano 8",
+        "luces bano 9",
+        "luces bano 10",
+        "luces bano 11",
+        "luces aula",
+        "luces dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 10.999
+  },
+  {
+    "id": 80,
+    "cmd": "prende la luz del salon 7",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "encender"
+      ],
+      "dispositivos": [
+        "luz salon 1",
+        "luz salon 2",
+        "luz salon 3",
+        "luz salon 4",
+        "luz salon 5",
+        "luz salon 6",
+        "luz salon 7"
+      ],
+      "valor": null
+    },
+    "tiempo": 7.669
+  },
+  {
+    "id": 81,
+    "cmd": "apaga la del salon 7",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.207
+  },
+  {
+    "id": 82,
+    "cmd": "pon la luz de la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "encender"
+      ],
+      "dispositivos": [
+        "cocina"
+      ],
+      "valor": null
+    },
+    "tiempo": 4.377
+  },
+  {
+    "id": 83,
+    "cmd": "saca la luz de la cocina",
+    "ok": true,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz cocina",
+        "luces dormitorio",
+        "luces salon",
+        "estor salon",
+        "estor dormitorio"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.172
+  },
+  {
+    "id": 84,
+    "cmd": "cierra las persianas de la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "estor cocina",
+        "permanencia cocina",
+        "permanencia bano",
+        "permanencia dormitorio",
+        "permanencia aula"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.559
+  },
+  {
+    "id": 85,
+    "cmd": "abre las persianas de la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "estor cocina",
+        "permanencia cocina",
+        "permanencia bano",
+        "permanencia dormitorio",
+        "permanencia aula"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.549
+  },
+  {
+    "id": 86,
+    "cmd": "levanta las persianas",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "persiana cocina",
+        "persiana bano",
+        "persiana dormitorio",
+        "estor salon",
+        "estor dormitorio",
+        "estor aula"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.712
+  },
+  {
+    "id": 87,
+    "cmd": "extiende los estores",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.07
+  },
+  {
+    "id": 90,
+    "cmd": "enciende la perciana de la cocina",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "cena",
+        "casa"
+      ],
+      "valor": ""
+    },
+    "tiempo": 4.214
+  },
+  {
+    "id": 91,
+    "cmd": "apaga la luz del sal
+    "ok": true,
+    "resp": {
+      "accion": [
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz salon 11",
+        "luces salon",
+        "luces dormitorio",
+        "estor salon"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.745
+  },
+  {
+    "id": 92,
+    "cmd": "sube la persiana del cuarto",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "apagar",
+        "regular"
+      ],
+      "dispositivos": [
+        "luz aula",
+        "luces salon",
+        "estor salon",
+        "estor dormitorio",
+        "persiana dormitorio",
+        "persiana salon"
+      ],
+      "valor": true
+    },
+    "tiempo": 6.74
+  },
+  {
+    "id": 93,
+    "cmd": "enciende las luces del ba
+    "ok": true,
+    "resp": {
+      "accion": [
+        "encender"
+      ],
+      "dispositivos": [
+        "luz bano 5",
+        "luz bano 6",
+        "luz bano 18"
+      ],
+      "valor": null
+    },
+    "tiempo": 5.282
+  },
+  {
+    "id": 95,
+    "cmd": "hola",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.051
+  },
+  {
+    "id": 96,
+    "cmd": "buenos dias",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.042
+  },
+  {
+    "id": 97,
+    "cmd": "apaga todo al salir",
+    "ok": false,
+    "resp": null,
+    "tiempo": 12.044
+  },
+  {
+    "id": 100,
+    "cmd": "cual es el sentido de la vida",
+    "ok": true,
+    "resp": null,
+    "tiempo": 12.062
+  },
+  {
+    "id": 101,
+    "cmd": "cuentame un chiste",
+    "ok": true,
+    "resp": null,
+    "tiempo": 12.05
+  },
+  {
+    "id": 102,
+    "cmd": "quien es el presidente del gobierno",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "consultar"
+      ],
+      "dispositivos": [
+        "presidente",
+        "gobierno"
+      ],
+      "valor": null
+    },
+    "tiempo": 4.699
+  },
+  {
+    "id": 103,
+    "cmd": "pizza",
+    "ok": false,
+    "resp": {
+      "accion": [
+        "encender",
+        "apagar"
+      ],
+      "dispositivos": [
+        "luz aula 18",
+        "luces salon",
+        "luz entrada 9",
+        "luz salon 7",
+        "luz salon 11"
+      ],
+      "valor": null
+    },
+    "tiempo": 6.706
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "audio": "dataset/sample_0030_v2.wav",
+    "text": "cual es el nivel de CO2",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0037_v2.wav",
+    "text": "apaga todo al salir",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0001_v0.wav",
+    "text": "apaga la luz de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0027_v0.wav",
+    "text": "consulta el sensor de temperatura",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0007_v1.wav",
+    "text": "apaga la entrada",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0009_v1.wav",
+    "text": "baja la intensidad al treinta",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0013_v2.wav",
+    "text": "enciende las luces del distribuidor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0031_v2.wav",
+    "text": "dame la temperatura del aula",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0022_v0.wav",
+    "text": "levanta la persiana del bano con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0035_v1.wav",
+    "text": "activa la calefaccion del salon desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0006_v0.wav",
+    "text": "enciende la luz del aula",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0017_v2.wav",
+    "text": "baja el estor del dormitorio",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0032_v1.wav",
+    "text": "sube la calefaccion",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0014_v2.wav",
+    "text": "sube la persiana de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0029_v0.wav",
+    "text": "que humedad hay en el salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0015_v2.wav",
+    "text": "baja la persiana del bano",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0040_v0.wav",
+    "text": "buenas noches apaga todo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0010_v2.wav",
+    "text": "sube la luz al ochenta por ciento",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0004_v2.wav",
+    "text": "enciende todas las luces del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0033_v2.wav",
+    "text": "baja el aire acondicionado",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0038_v2.wav",
+    "text": "modo bienvenida por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0045_v2.wav",
+    "text": "enciende las luces del baño con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0024_v1.wav",
+    "text": "que temperatura hace en el salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0042_v2.wav",
+    "text": "enciende la perciana de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0045_v1.wav",
+    "text": "enciende las luces del baño",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0011_v1.wav",
+    "text": "pon la luz al maximo con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0018_v1.wav",
+    "text": "sube todas las persianas",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0025_v1.wav",
+    "text": "cual es la temperatura exterior",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0039_v1.wav",
+    "text": "activa la escena de salida rapido",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0041_v0.wav",
+    "text": "preparate para el cine",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0029_v1.wav",
+    "text": "que humedad hay en el salon desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0026_v1.wav",
+    "text": "dime la temperatura actual",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0031_v1.wav",
+    "text": "dame la temperatura del aula",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0031_v0.wav",
+    "text": "dame la temperatura del aula rapido",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0001_v1.wav",
+    "text": "apaga la luz de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0014_v1.wav",
+    "text": "sube la persiana de la cocina desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0009_v2.wav",
+    "text": "baja la intensidad al treinta",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0043_v1.wav",
+    "text": "apaga la luz del salón",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0024_v0.wav",
+    "text": "que temperatura hace en el salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0028_v1.wav",
+    "text": "cuanto marca el sensor de clima",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0015_v0.wav",
+    "text": "baja la persiana del bano",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0041_v1.wav",
+    "text": "preparate para el cine",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0015_v1.wav",
+    "text": "baja la persiana del bano con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0016_v2.wav",
+    "text": "sube el estor del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0044_v2.wav",
+    "text": "sube la persiana del cuarto",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0005_v1.wav",
+    "text": "apaga las luces de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0039_v0.wav",
+    "text": "activa la escena de salida",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0030_v1.wav",
+    "text": "cual es el nivel de CO2",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0046_v0.wav",
+    "text": "regula la persiana al treinta por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0045_v0.wav",
+    "text": "enciende las luces del baño",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0014_v0.wav",
+    "text": "sube la persiana de la cocina desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0008_v2.wav",
+    "text": "regula la luz del salon al cincuenta por ciento",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0001_v2.wav",
+    "text": "apaga la luz de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0013_v0.wav",
+    "text": "enciende las luces del distribuidor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0000_v2.wav",
+    "text": "enciende la luz del salon con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0012_v2.wav",
+    "text": "dimeriza la luz del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0027_v1.wav",
+    "text": "consulta el sensor de temperatura",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0044_v0.wav",
+    "text": "sube la persiana del cuarto",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0029_v2.wav",
+    "text": "que humedad hay en el salon por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0038_v1.wav",
+    "text": "modo bienvenida",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0020_v0.wav",
+    "text": "cierra las persianas",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0026_v0.wav",
+    "text": "dime la temperatura actual",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0044_v1.wav",
+    "text": "sube la persiana del cuarto con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0038_v0.wav",
+    "text": "modo bienvenida",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0041_v2.wav",
+    "text": "preparate para el cine",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0002_v2.wav",
+    "text": "enciende la luz del bano rapido",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0040_v1.wav",
+    "text": "buenas noches apaga todo rapido",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0003_v1.wav",
+    "text": "apaga la luz del dormitorio",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0021_v2.wav",
+    "text": "abre los estores del aula",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0025_v0.wav",
+    "text": "cual es la temperatura exterior",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0006_v2.wav",
+    "text": "enciende la luz del aula por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0022_v1.wav",
+    "text": "levanta la persiana del bano",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0021_v1.wav",
+    "text": "abre los estores del aula",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0033_v0.wav",
+    "text": "baja el aire acondicionado desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0037_v1.wav",
+    "text": "apaga todo al salir por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0025_v2.wav",
+    "text": "cual es la temperatura exterior con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0013_v1.wav",
+    "text": "enciende las luces del distribuidor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0026_v2.wav",
+    "text": "dime la temperatura actual por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0035_v2.wav",
+    "text": "activa la calefaccion del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0024_v2.wav",
+    "text": "que temperatura hace en el salon por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0047_v2.wav",
+    "text": "termostato del salon a veinte por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0032_v2.wav",
+    "text": "sube la calefaccion",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0012_v1.wav",
+    "text": "dimeriza la luz del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0042_v0.wav",
+    "text": "enciende la perciana de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0006_v1.wav",
+    "text": "enciende la luz del aula desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0033_v1.wav",
+    "text": "baja el aire acondicionado",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0028_v0.wav",
+    "text": "cuanto marca el sensor de clima",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0023_v2.wav",
+    "text": "extiende los estores del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0040_v2.wav",
+    "text": "buenas noches apaga todo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0012_v0.wav",
+    "text": "dimeriza la luz del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0019_v1.wav",
+    "text": "baja todas las persianas de la casa",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0011_v0.wav",
+    "text": "pon la luz al maximo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0042_v1.wav",
+    "text": "enciende la perciana de la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0000_v0.wav",
+    "text": "enciende la luz del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0047_v1.wav",
+    "text": "termostato del salon a veinte",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0034_v0.wav",
+    "text": "pon la climatizacion a veintidos grados",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0002_v1.wav",
+    "text": "enciende la luz del bano",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0017_v0.wav",
+    "text": "baja el estor del dormitorio",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0043_v0.wav",
+    "text": "apaga la luz del salón",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0020_v1.wav",
+    "text": "cierra las persianas",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0020_v2.wav",
+    "text": "cierra las persianas",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0017_v1.wav",
+    "text": "baja el estor del dormitorio",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0007_v0.wav",
+    "text": "apaga la entrada desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0010_v0.wav",
+    "text": "sube la luz al ochenta por ciento",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0032_v0.wav",
+    "text": "sube la calefaccion desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0003_v2.wav",
+    "text": "apaga la luz del dormitorio",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0000_v1.wav",
+    "text": "enciende la luz del salon desde la cocina",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0023_v0.wav",
+    "text": "extiende los estores del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0027_v2.wav",
+    "text": "consulta el sensor de temperatura rapido",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0002_v0.wav",
+    "text": "enciende la luz del bano por favor",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0004_v0.wav",
+    "text": "enciende todas las luces del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0023_v1.wav",
+    "text": "extiende los estores del salon",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0036_v1.wav",
+    "text": "hola buenos dias",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0046_v1.wav",
+    "text": "regula la persiana al treinta con ruido de fondo",
+    "original": true
+  },
+  {
+    "audio": "dataset/sample_0043_v2.wav",
+    "text": "apaga la luz del salón",
+    "original": true
+  }
+]

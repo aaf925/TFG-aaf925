@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz salon 7"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 2,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz salon 7"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 3,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 4,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 5,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz bano 5"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 6,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz aula 18"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 7,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz dormitorio 12"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 8,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz entrada 1"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 9,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz entrada 9"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 10,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz salon 3"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 11,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz salon 11"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 12,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz salon 8"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 13,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz dormitorio 13"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 14,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz dormitorio 14"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 20,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luces salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 21,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luces salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 22,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luces dormitorio"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 23,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luces dormitorio",
+        "todas las luces de la casa"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 24,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "todas las luces de la casa"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 25,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 30,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 50,
+      "dispositivos": [
+        "luz salon 3"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 31,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 75,
+      "dispositivos": [
+        "luz salon 8"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 32,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 30,
+      "dispositivos": [
+        "luz aula 18"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 33,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 20,
+      "dispositivos": [
+        "luz salon 3"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 34,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 80,
+      "dispositivos": [
+        "luz salon 11"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 40,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "persiana cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 41,
+    "ok": true,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "persiana cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 42,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "persiana bano"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 43,
+    "ok": true,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "persiana dormitorio"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 44,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "estor salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 45,
+    "ok": true,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "estor salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 46,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "estor aula"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 47,
+    "ok": true,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "estor dormitorio"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 50,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 50,
+      "dispositivos": [
+        "persiana cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 51,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 30,
+      "dispositivos": [
+        "persiana bano"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 52,
+    "ok": true,
+    "resp": {
+      "accion": "regular",
+      "valor": 70,
+      "dispositivos": [
+        "estor salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 55,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "todas las persianas"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 56,
+    "ok": true,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "todas las persianas"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 60,
+    "ok": true,
+    "resp": {
+      "accion": "consultar",
+      "dispositivos": [
+        "temperatura actual salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 61,
+    "ok": true,
+    "resp": {
+      "accion": "consultar",
+      "dispositivos": [
+        "temperatura exterior"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 62,
+    "ok": true,
+    "resp": {
+      "accion": "consultar",
+      "dispositivos": [
+        "temperatura actual salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 63,
+    "ok": true,
+    "resp": {
+      "accion": "consultar",
+      "dispositivos": [
+        "luz salon 3",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 11",
+        "luces salon",
+        "estor salon",
+        "temperatura actual salon"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 70,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 71,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 72,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 80,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz salon 7"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 81,
+    "ok": true,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz salon 7"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 82,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 83,
+    "ok": false,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 84,
+    "ok": true,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "persiana cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 85,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "persiana cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 86,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "todas las persianas"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 87,
+    "ok": false,
+    "resp": {
+      "accion": "bajar",
+      "dispositivos": [
+        "estor salon",
+        "estor dormitorio",
+        "estor aula"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 90,
+    "ok": false,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "persiana cocina"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 91,
+    "ok": false,
+    "resp": {
+      "accion": "apagar",
+      "dispositivos": [
+        "luz salon 3",
+        "luz salon 7",
+        "luz salon 8",
+        "luz salon 11"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 92,
+    "ok": true,
+    "resp": {
+      "accion": "subir",
+      "dispositivos": [
+        "persiana dormitorio"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 93,
+    "ok": true,
+    "resp": {
+      "accion": "encender",
+      "dispositivos": [
+        "luz bano 5",
+        "luz bano 6"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 95,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 96,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 97,
+    "ok": false,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 100,
+    "ok": false,
+    "resp": {
+      "accion": "consultar",
+      "dispositivos": [
+        "todas las luces de la casa"
+      ]
+    },
+    "tiempo": 0
+  },
+  {
+    "id": 101,
+    "ok": true,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 102,
+    "ok": true,
+    "resp": null,
+    "tiempo": 0
+  },
+  {
+    "id": 103,
+    "ok": true,
+    "resp": null,
+    "tiempo": 0
+  }
+]

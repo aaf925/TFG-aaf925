@@ -1,0 +1,29 @@
+# --- Backend API ---
+Flask>=3.0
+flask-cors>=4.0
+
+# --- ASR (Speech-to-Text) ---
+faster-whisper>=1.0
+
+# --- Wake word ---
+openwakeword>=0.4
+
+# --- Audio I/O ---
+sounddevice>=0.4
+soundfile>=0.12
+numpy>=1.24
+scipy>=1.11
+
+# --- TTS ---
+piper-tts>=1.2
+pyttsx3>=2.90
+gTTS>=2.3
+
+# --- LLM (Ollama) ---
+requests>=2.31
+
+# --- Sonos ---
+soco>=0.30
+
+# --- Opcional: reconocimiento por voz (fallback) ---
+SpeechRecognition>=3.10
